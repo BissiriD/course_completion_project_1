@@ -1,0 +1,26 @@
+Hypothesis - There is a positive correlation between the amount of 
+time spent watching videos and completing quizzes to User score 
+and engagement
+Objective - Utilize data libraries to analyze and visualize 
+how the Hypothesis is being played into effect
+Packages - Pandas, Numpy, Matplotlib, Seaborn, Scipy, Sckit-learn 
+ML - Create a predictive model based off how many times 
+a user watches videos and takes quizzes and predict whether or
+not they will complete the course
+Outcome -Upon testing the initial hypothesis that higher 
+engagement in an online course, measured by the number of 
+videos watched, the number of quizzes taken, and the 
+time spent on the course, would correlate with higher quiz 
+scores, I found no significant positive correlations. Using 
+Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, 
+and SciPy, I conducted thorough data cleaning, exploratory data
+ analysis, and correlation analysis. After concluding that 
+ the hypothesis was incorrect, I explored alternative 
+ hypotheses by examining additional variables like course 
+ completion rate, device type, and course category. 
+ Statistical tests, including ANOVA and t-tests, 
+ revealed potential differences in quiz scores across 
+ different course categories but no significant impact 
+ from device type. This extended analysis provided deeper 
+ insights into user engagement patterns and highlighted areas 
+for future research and improvement in online course design.
